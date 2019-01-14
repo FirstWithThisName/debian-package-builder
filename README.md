@@ -1,2 +1,2 @@
 # debian-package-builder
-## Docker to image build debian packages
+## Docker image to build debian packages
